@@ -1,7 +1,5 @@
-Title
-========================================================
-
 ## This is a markdown file
+========================================================
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring web pages (click the **MD** toolbar button for help on Markdown).
 
